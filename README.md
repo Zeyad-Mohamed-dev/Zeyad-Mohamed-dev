@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I'm Zeyad Mohamed 👋</h1>
+<h1 align="center">I'm Zeyad Mohamed</h1>
 <h3 align="center">Full-Stack Software Engineer | JavaScript & Java Ecosystems | Cairo, Egypt 🇪🇬</h3>
 
 <p align="center">
